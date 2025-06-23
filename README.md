@@ -224,14 +224,13 @@ Various additional features to enhance your overall experience.
   - Mod Hider 👻
   - Auto Daily 📅
   - PVP Info ⚔️
-  - Disabled 🚫
   - Gift 🎁
 
 ---
 
 ## Installation & Usage 📥
 Follow the instructions below to install the Hypixel Skyblock QoL Client:
-1. Download the client from [insert link](https://github.com/moneycash40cw/Oringo-Client/releases) .
+1. Download the client from [here](https://github.com/moneycash40cw/Oringo-Client/releases) .
 2. Place it in your Minecraft mods folder.
 3. Launch Minecraft and activate the client via the settings menu.
 
